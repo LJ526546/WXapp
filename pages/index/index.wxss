@@ -1,0 +1,4 @@
+/**index.wxss**/
+.bc_green{
+  background: green;
+}

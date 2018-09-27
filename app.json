@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "测试",
+    "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor":"red",
+    "list": [
+      {
+        "iconPath":"pages/img/Information2.png",
+        "selectedIconPath":"pages/img/Information2Cur.png",
+        "pagePath":"pages/index/index",
+        "text":"首页"
+      },
+      {
+        "iconPath":"pages/img/Information3.png",
+        "selectedIconPath":"pages/img/Information3Cur.png",
+        "pagePath":"pages/logs/logs",
+        "text": "logs"
+      }
+    ]
+  }
+}
