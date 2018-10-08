@@ -7,7 +7,9 @@
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#000",
     "navigationBarTitleText": "测试",
-    "navigationBarTextStyle":"#fff"
+    "navigationBarTextStyle": "#fff",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#eeeeee"
   },
   "tabBar": {
     "color": "#333",
